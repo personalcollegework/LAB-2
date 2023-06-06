@@ -34,3 +34,4 @@ This Markdown document provides a structure for your breast cancer prediction pr
 
 Steps:
 ![Alt Text](Images/Image-1.png)
+![Alt Text](Images/Image-2.png)
